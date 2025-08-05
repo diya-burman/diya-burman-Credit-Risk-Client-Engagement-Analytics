@@ -1,4 +1,3 @@
-# Risk-Client-Engagement-Analytics
 # Credit Risk & Client Engagement Analytics Dashboard
 
 A comprehensive Power BI dashboard project designed to analyze client engagement, loan exposure, and deposit behavior across multiple banking entities. This solution supports data-driven credit risk evaluation and operational decision-making for financial institutions.
